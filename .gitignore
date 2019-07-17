@@ -1,9 +1,9 @@
-# Don't track content of these folders
+# Don't track these folders:
 'Immersive Civ/.minecraft/crash-reports/'
 'Immersive Civ/.minecraft/logs/'
 'Immersive Civ/.minecraft/saves/'
 'Immersive Civ/.minecraft/screenshots/'
 
-# Username Caches
+# Don't track username cache
 'Immersive Civ/.minecraft/usercache.json'
 'Immersive Civ/.minecraft/usernamecache.json'
